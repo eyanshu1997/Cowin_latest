@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "668386027081",
+    "firebase_url": "https://cowin-e58d4-default-rtdb.firebaseio.com",
+    "project_id": "cowin-e58d4",
+    "storage_bucket": "cowin-e58d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668386027081:android:1fd66dd8de4edcdbb6c198",
+        "android_client_info": {
+          "package_name": "com.eyanshu.cowin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668386027081-ltai19csk2gmggfo137jr0t2m3c3mbdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkwiA11iAY5jGVF4_6c00ZrfaLwX8z_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668386027081-ltai19csk2gmggfo137jr0t2m3c3mbdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668386027081:android:c46d4a73a1cbd081b6c198",
+        "android_client_info": {
+          "package_name": "com.eyanshu.cowin_latest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668386027081-ltai19csk2gmggfo137jr0t2m3c3mbdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkwiA11iAY5jGVF4_6c00ZrfaLwX8z_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668386027081-ltai19csk2gmggfo137jr0t2m3c3mbdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668386027081:android:ff880a97ef45f253b6c198",
+        "android_client_info": {
+          "package_name": "com.eyanshu.cowin_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668386027081-ltai19csk2gmggfo137jr0t2m3c3mbdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkwiA11iAY5jGVF4_6c00ZrfaLwX8z_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668386027081-ltai19csk2gmggfo137jr0t2m3c3mbdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
